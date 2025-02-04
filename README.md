@@ -8,3 +8,5 @@
 - git add .                     -> adicionar arquivos ao **stage**
 - git commit -m "Mensagem"      -> comitar com mensagem as alterações feitas
 - git log -> exibe o histórico de commits no repositório
+- git remoto add ENDEREÇO_REPOSITORIO ->adiciona repositório remoto como refrência para o local
+- git push origin main         -> executa o push enviando as alterações para o repositório remoto (origin)
